@@ -1,0 +1,25 @@
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 0 auto;
+}
+.img{
+    height: 300px;
+    margin-right: 20px;
+    width: 300px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+.more{
+    height: 40px;
+    width: 250px;
+    background-color: #042331;
+    color: white;
+    margin-left: 800px;
+}
+.more:hover{
+    background-color: white;
+    color: #042331;
+    
+}
